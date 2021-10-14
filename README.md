@@ -9,9 +9,13 @@ Já teve uma discussão na Internet que se sentiu sem resposta? Seus problemas a
 
 ## [1.0.1] - 14/10/2021
 ### Atualização
+- Regra "não" sai da condição de rima.
+- Adicionado código para que o bot fale, utilizando "TTS"(Text to Speach) do Discord
+
+### Correções
 - Corrigido RegEx que gerava a não identificação se colocar acentuação após o "ão". 
 - Corrigido requerimentos do pip.
-- Regra "não" sai da condição de rima.
+
 
 ### Problemas conhecidos:
 - Victor atentou que "não" também sai da condição de rima.
