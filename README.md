@@ -16,9 +16,7 @@ Já teve uma discussão na Internet que se sentiu sem resposta? Seus problemas a
 - Corrigido RegEx que gerava a não identificação se colocar acentuação após o "ão". 
 - Corrigido requerimentos do pip.
 
-
 ### Problemas conhecidos:
-- Victor atentou que "não" também sai da condição de rima.
 - Victor atentou que Danilo havia decretado uma lei anteriormente, palavras em aumentativo não podem cair na regra da rima com ão. É possível definir um algorítmio que exclua as palavras com aumentativo? 
 
 
@@ -28,5 +26,5 @@ Já teve uma discussão na Internet que se sentiu sem resposta? Seus problemas a
 
 ### Problemas conhecidos:
 - Se o 'ão' no final da palavra for acompanhado de algum pontuação, o bot não consegue reconhecer. Exemplo "Pão!".
-- Victor atentou que "não" também sai da condição de rima.
+- Victor atentou que "não" também sai da condição de rima. 
 - Victor atentou que Danilo havia decretado uma lei anteriormente, palavras em aumentativo não podem cair na regra da rima com ão. É possível definir um algorítmio que exclua as palavras com aumentativo? 
